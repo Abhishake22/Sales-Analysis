@@ -1,0 +1,16 @@
+ customer_id , customer_name , email                 ,, order_id , customer_id , product_id , order_date , quantity , total_amount ,, product_id , product_name  , category   , price 
+101, John Smith    ,john.smith@email.com,,1,101,1, 2023-01-01 ,2,30,,1, Laptop        , Electronics,15
+102, Mary Johnson  ,mary.johnson@email.com,,2,102,2, 2023-02-03 ,1,20,,2, Smartphone    , Electronics,20
+103, David Lee     ,david.lee@email.com,,3,103,3, 2023-03-04 ,3,75,,3, T-shirt       , Clothing   ,25
+104, Sarah White   ,sarah.white@email.com,,4,104,1, 2023-01-07 ,2,30,,4, Shoes         , Clothing   ,10
+105, Lisa Davis    ,lisa.davis@email.com,,5,101,4, 2023-04-09 ,1,10,,5, Headphones    , Electronics,15
+106, Robert Brown  ,robert.brown@email.com,,6,105,2, 2023-05-12 ,2,40,,6, Blender       , Appliances ,50
+107, Linda Wilson  ,linda.wilson@email.com,,7,103,5, 2023-06-15 ,1,15,,7, Watch         , Accessories,30
+108, Michael Clark ,michael.clark@email.com,,8,102,3, 2023-07-16 ,2,50,,8, Backpack      , Accessories,35
+109, Karen Hall    ,karen.hall@email.com,,9,101,4, 2023-08-18 ,3,30,,9, Sunglasses    , Accessories,10
+110, James Miller  ,james.miller@email.com,,10,104,1, 2023-09-20 ,1,15,,10, Coffee Maker  , Appliances ,40
+,,,,11,105,4, 2023-09-17 ,4,40,,,,,
+,,,,12,106,6, 2023-10-17 ,1,50,,,,,
+,,,,13,108,10, 2023-08-17 ,1,40,,,,,
+,,,,14,109,9, 2023-06-10 ,2,20,,,,,
+,,,,15,103,8, 2023-11-10 ,1,35,,,,,

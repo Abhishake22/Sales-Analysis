@@ -1,0 +1,11 @@
+ product_id , product_name  , category   , price 
+1, Laptop        , Electronics,15
+2, Smartphone    , Electronics,20
+3, T-shirt       , Clothing   ,25
+4, Shoes         , Clothing   ,10
+5, Headphones    , Electronics,15
+6, Blender       , Appliances ,50
+7, Watch         , Accessories,30
+8, Backpack      , Accessories,35
+9, Sunglasses    , Accessories,10
+10, Coffee Maker  , Appliances ,40
